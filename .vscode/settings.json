@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Guerreiro"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\182310086\\Documents\\conector\\mysql-connector-java-8.0.20.jar"
+    ]
+}
